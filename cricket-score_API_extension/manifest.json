@@ -1,0 +1,16 @@
+{
+    "name": "KhushantAutoPause",
+    "version": "1.0.0",
+    "description": "this is demo",
+    "manifest_version": 3,
+    "author": "Khushant Wankhede",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome First Extension"
+    },
+    "icons": {
+        "16": "self.png",
+        "48": "self.png",
+        "128": "self.png"
+    }
+}
